@@ -2,6 +2,7 @@
 
 The purpose of this task is to perform a data analysis on a set of data surrounding customer loans with a financial institution.
 This will use various techniques to find meaning and patterns within the data.
+I did find this project to be a challenge, but I was able to get through it and produce everything needed for the project.
 
 Packages required:
 pandas
